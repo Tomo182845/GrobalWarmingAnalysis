@@ -1,4 +1,4 @@
-# GrobalWarmingAnalysi
+# Grobal Warming Analysis
 ==2022/10/06==
 
 昔はこんなに暑くなかったよね～と言うが、実際にどれぐらい上がっているのか解析したり可視化したいと感じた。
